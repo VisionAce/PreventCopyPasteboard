@@ -15,4 +15,4 @@
 
 [1]: https://mas.owasp.org/MASTG/tests/ios/MASVS-PLATFORM/MASTG-TEST-0073/
 [2]: https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps
-[3]: 
+[3]: https://github.com/VisionAce/PreventCopyPasteboard/blob/main/PreventCopyPasteboard/CustomTextField.swift
