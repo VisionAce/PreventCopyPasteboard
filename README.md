@@ -2,10 +2,6 @@
 - [OWASP][1]
 
 
-## 防止剪貼簿洩漏敏感資料的參考
-- [Prevent copy & paste into other iOS apps][2]
-
-
 ## 參考範例程式
 
 - [自定義TextField][3]
