@@ -16,6 +16,9 @@
 ## 參考範例程式
 - [自定義TextField][3]
 - [剪貼簿加密][4] 連結做法不算加密而是編碼，請將編碼的部分改成安全的加密方法即可。
+- [MASTG-TEST-0278][10] App退至後台或關閉時，清空剪貼簿。
+- [MASTG-TEST-0279][11] 剪貼簿的內容有過期的設定。
+- [MASTG-TEST-0280][11] 剪貼簿的內容限定於本地裝置，不能將剪貼簿的資料從該裝置貼於其他設備。
 
 ## 📸 Screenshots
 <img width="300" height="600" src="https://github.com/VisionAce/Screenshoots/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-09-25%20at%2001.37.02.gif"/>
@@ -29,3 +32,5 @@
 [7]: https://mas.owasp.org/MASTG/tests/ios/MASVS-PLATFORM/MASTG-TEST-0278/
 [8]: https://mas.owasp.org/MASTG/tests/ios/MASVS-PLATFORM/MASTG-TEST-0279/
 [9]: https://mas.owasp.org/MASTG/tests/ios/MASVS-PLATFORM/MASTG-TEST-0280/
+[10]: https://github.com/VisionAce/PreventCopyPasteboard/blob/5541ec5415fe69595dcd5e66539cc002bcd01f45/Mastg-v2/MastgV2UIPasteboard/ContentView.swift#L216-L220
+[11]: https://github.com/VisionAce/PreventCopyPasteboard/blob/5541ec5415fe69595dcd5e66539cc002bcd01f45/Mastg-v2/MastgV2UIPasteboard/ContentView.swift#L181-L214
